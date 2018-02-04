@@ -34,4 +34,4 @@ run "mvn clean package" and it will build the jar in the target folder.
 2) run "java -jar ./target/othello.jar" in the command prompt
 
 __Sample Output__
-##### *a player wins*
+![image](https://github.com/stevenpig/othello/blob/master/screenshot/sample.jpg)
